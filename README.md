@@ -16,3 +16,6 @@ moderate effectiveness. Paired t-tests confirmed CodeT5’s sta-
 tistically significant advantage, highlighting that a well-adapted
 model can outperform more generalized architectures in realistic
 software testing scenarios.
+
+# Note: 
+More details of the work: https://www.researchgate.net/publication/392691523_Transformer-Based_Unit_Test_Generation_for_Reliable_Systems_Peer-reviewed_accepted_not_yet_published_Best_Paper_Award_see_screenshots_below
